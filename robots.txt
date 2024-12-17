@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /admin/
-Disallow: /midlertidige-filer/
+Disallow: /
 
 Sitemap: https://sallymaria.dk/sitemap.xml
